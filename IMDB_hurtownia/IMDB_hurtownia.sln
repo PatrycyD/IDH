@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31829.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "IMDB_hurtownia", "IMDB_hurtownia.dtproj", "{CF1D0DAA-51F1-4E7E-BBAF-8D5C6F068185}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF1D0DAA-51F1-4E7E-BBAF-8D5C6F068185}.Development|Default.ActiveCfg = Development
+		{CF1D0DAA-51F1-4E7E-BBAF-8D5C6F068185}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B7DC25D-90D1-4F7E-8768-5674B3C6F36E}
+	EndGlobalSection
+EndGlobal
