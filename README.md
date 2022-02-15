@@ -1,0 +1,1 @@
+Projekt ETLa na zajęcia z Integracj i Hurtowni danych. Rezpozytrium zawiera pliki z Visual Studio, w którym można odtworzyć ETL. W projekcie są wykorzystane dwie bazy danych - jedna lokalna i jedna umieszczona w chmurze Google
